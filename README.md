@@ -18,7 +18,7 @@ Mostly GUIs, yet still quite quick. Multiple DE ISOs for ease of use.
 # Guide to what ISO you should pick
 
 - Cinnamon - Lighter weight, 'start menu-like' app launcher
-- Ukui - Not too light, modern, beautiful and my personal favourite but **Made in China**.
+- Ukui - Not too light, modern, beautiful and my personal favourite but **Made in China** and it's not **open-source** so anything could be going on.
 - KDE Plasma - Battle tested, and modern UI
 
 # This is designed and built on *real hardware*. It may not run as well in a VM.
